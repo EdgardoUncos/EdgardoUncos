@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edgardouncos&label=Profile%20views&color=0e75b6&style=flat" alt="edgardouncos" /> </p>
 
-- 🌱 Estoy estudiando **Web API y Angular**
+- 🌱 Estoy estudiando **Angular**
 
 - 👨‍💻 Todos mis proyectos estan aqui [https://github.com/EdgardoUncos](https://github.com/EdgardoUncos)
 
