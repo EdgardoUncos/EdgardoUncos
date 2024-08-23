@@ -9,7 +9,7 @@
 
 - 📫 Como contactarme **euncos@gmail.com**
 
-- Mi Linkedin  **https://www.linkedin.com/in/edgardo-uncos-89113537/**
+- Mi Linkedin  **https://www.linkedin.com/in/edgardo-uncos/**
 
 <p align="left">
 </p>
